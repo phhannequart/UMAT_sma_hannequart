@@ -6,7 +6,7 @@ Authors : Philippe Hannequart (1,2), Michael Peigney(1), Jean-François Caron(1)
 (1) Universite Paris-Est, Laboratoire Navier (UMR 8205), CNRS, Ecole des Ponts ParisTech, IFSTTAR, 77455 Marne la vallee, France  
 (2) Arcora, Groupe Ingerop, Rueil-Malmaison, France 
   
-It refers to the model published in paper 
+It refers to the model published in paper ... 
   
 The number of state variables NSTATV in Abaqus must be twice the number of crystal orientations 
 NSTATV = 2 is a SMA monocrystal 
