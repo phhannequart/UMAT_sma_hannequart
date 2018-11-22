@@ -8,8 +8,8 @@ Authors : Philippe Hannequart (1,2), Michael Peigney(1), Jean-François Caron(1)
   
 It refers to the model published in paper ... 
   
-The number of state variables NSTATV in Abaqus must be twice the number of crystal orientations 
-NSTATV = 2 is a SMA monocrystal 
+The number of state variables NSTATV in Abaqus must be twice the number of crystal orientations    
+For example, NSTATV = 2 is a SMA monocrystal  
   
 The material properties in Abaqus must be set as follows :  
 PROPS(1) : Young's Modulus  
